@@ -146,6 +146,7 @@ body {
 
 .datatable__select {
   display: block;
+  min-width: 160px;
   margin-bottom: 10px; }
 
 .datatable__tasks-container:empty {
